@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overige Taken on Sips Joeri - Gip site</title>
-    <link>http://localhost:1313/categories/overige-taken/</link>
+    <link>http://joeri-sips.github.io/categories/overige-taken/</link>
     <description>Recent content in Overige Taken on Sips Joeri - Gip site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/overige-taken/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://joeri-sips.github.io/categories/overige-taken/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Database</title>
-      <link>http://localhost:1313/taken/Database/</link>
+      <link>http://joeri-sips.github.io/taken/Database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Database/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Database/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Directory structuur en workflows</title>
-      <link>http://localhost:1313/taken/WorkflowsCMS/</link>
+      <link>http://joeri-sips.github.io/taken/WorkflowsCMS/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/WorkflowsCMS/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/WorkflowsCMS/</guid>
       <description>
 
 &lt;p&gt;&lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt;&lt;/p&gt;
@@ -75,13 +75,13 @@ Eenmaal je uiteindelijk de basis van je hugo site hebt is het toevoegen van post
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>IT is life</title>
-      <link>http://localhost:1313/taken/IT-autobiography/</link>
+      <link>http://joeri-sips.github.io/taken/IT-autobiography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-autobiography/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-autobiography/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Introduction:&lt;/h2&gt;
@@ -106,13 +106,13 @@ That has been her work for as long as I can remember and longer; she even tells 
 &lt;p&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=208v521&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i66.tinypic.com/208v521.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>IT-profile</title>
-      <link>http://localhost:1313/taken/IT-profile/</link>
+      <link>http://joeri-sips.github.io/taken/IT-profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-profile/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-profile/</guid>
       <description>&lt;p&gt;Hier een overzicht van &amp;ldquo;IT-skills&amp;rdquo; die ik op het immaculata instituut heb aangeleerd:&lt;/p&gt;
 
 &lt;p&gt;HTML:&lt;/p&gt;
@@ -136,16 +136,16 @@ That has been her work for as long as I can remember and longer; she even tells 
 &lt;progress value=&#34;55&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Javascript Applicatie</title>
-      <link>http://localhost:1313/taken/JavascriptApp/</link>
+      <link>http://joeri-sips.github.io/taken/JavascriptApp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/JavascriptApp/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/JavascriptApp/</guid>
       <description>&lt;p&gt;In mijn &lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt; ga je uit verschillende materialen telkens 1 kiezen en aan duiden of je het afkoelt of opwarmt waarop je het resultaat ziet. Vb. : Water, afkoelen = ijs. Dit wordt dan opgevrolijkt d.m.v. animaties en foto’s. Momenteel doe ik de animaties gewoon met de javascript library omdat dat momenteel al volstaat.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It Tapa on Sips Joeri - Gip site</title>
-    <link>http://localhost:1313/categories/it-tapa/</link>
+    <link>http://joeri-sips.github.io/categories/it-tapa/</link>
     <description>Recent content in It Tapa on Sips Joeri - Gip site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/it-tapa/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://joeri-sips.github.io/categories/it-tapa/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Trello sessies</title>
-      <link>http://localhost:1313/taken/IT-TapaTrelloSessies/</link>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-TapaTrelloSessies/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</guid>
       <description>
 
 &lt;h2 id=&#34;it-tapa:4a768886d0240b11f9ea18ceffcb8e46&#34;&gt;IT-tapa&lt;/h2&gt;
@@ -25,13 +25,13 @@
 &lt;a href=&#34;http://nl.tinypic.com?ref=10x4kk3&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i65.tinypic.com/10x4kk3.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Pour la FAQ au sujet de Trello, cliquez ici</title>
-      <link>http://localhost:1313/taken/FoireAuxQuestions/</link>
+      <link>http://joeri-sips.github.io/taken/FoireAuxQuestions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/FoireAuxQuestions/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/FoireAuxQuestions/</guid>
       <description>&lt;p&gt;J’ai presenté l’outil “Trello” aux enseignants et en réalisant cette présentation j’ai trouvé six questions courantes.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -67,13 +67,13 @@
 &lt;/ol&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Trello Instructievideo</title>
-      <link>http://localhost:1313/taken/IT-TapaTrelloIntstructievideos/</link>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-TapaTrelloIntstructievideos/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</guid>
       <description>&lt;p&gt;Nederlandse Instructievideo:&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -83,6 +83,6 @@
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

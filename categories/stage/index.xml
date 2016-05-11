@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stage on Sips Joeri - Gip site</title>
-    <link>http://localhost:1313/categories/stage/</link>
+    <link>http://joeri-sips.github.io/categories/stage/</link>
     <description>Recent content in Stage on Sips Joeri - Gip site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/stage/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://joeri-sips.github.io/categories/stage/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Case study</title>
-      <link>http://localhost:1313/taken/CaseStudy/</link>
+      <link>http://joeri-sips.github.io/taken/CaseStudy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/CaseStudy/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/CaseStudy/</guid>
       <description>
 
 &lt;h1 id=&#34;qf-test-case-study:012002a4ccf4c08711ada36cec8a571e&#34;&gt;QF-Test case study&lt;/h1&gt;
@@ -41,13 +41,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;p&gt;Tijdens de 2 weken stage hebben ik en wout testen geschreven voor Prime Visit waaronder tests om in te loggen, groepen aanmaken, leveranciers aanmaken, leveranciers aanmelden, etc. Het werk dat wij hiermee hebben verricht is ook echt van nut voor het bedrijf want ze laten de geautomatiseerde tests schrijven door tijdelijk werkkrachten zoals jobstudenten en ook stagiairs. Zo kunnen hun vaste informatici zich blijven focussen op de web-applicatie en moeten het development team niet ongesplitst worden om tests te schrijven.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Huisstijl</title>
-      <link>http://localhost:1313/taken/Huisstijl/</link>
+      <link>http://joeri-sips.github.io/taken/Huisstijl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Huisstijl/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Huisstijl/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/Huisstijl.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 
 &lt;p&gt;De kleuren van GET zijn rood zwart en witte achtergronden. Meestal staat er dan “time &amp;amp; security” bij maar op get-producten zoals tassen kauwgom en pennen die ze gratis aan klanten meegeven word het woord “get” met leuke woordspelingen afgebeeld&lt;/p&gt;
@@ -55,13 +55,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;p&gt;In het bedrijf vind je het logo op de badge-scanners, de standaard bureaubladen en iedereen heeft ook rode of grijze truien met het logo maar die zijn niet verplicht.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Review of a software tool in the training company: GET N.V.</title>
-      <link>http://localhost:1313/taken/Review/</link>
+      <link>http://joeri-sips.github.io/taken/Review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Review/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Review/</guid>
       <description>&lt;p&gt;&lt;em&gt;I will be reviewing the QF-Test tool, I used this tool during my 2 weeks of training at GET NV. The tool is great at making tests for applications you have made. It was used by the Software Development department.
 They used it to make tests for their web application called “Prime Visit”.&lt;/em&gt;&lt;/p&gt;
 
@@ -79,17 +79,17 @@ I still think it’s a must have for software developers to automatically test t
 &lt;p&gt;Despite the expensive price, the tool is brilliant at what it’s made for which is making tests for your applications. And it definitely succeeds at being user friendly and able to work with all kinds of applications and programming languages. I absolutely recommend it to other companies which develop software to run automated tests all night to point out all the little and big bugs and glitches.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Voici un reportage photo concernant le stage</title>
-      <link>http://localhost:1313/taken/ReportagePhotos/</link>
+      <link>http://joeri-sips.github.io/taken/ReportagePhotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/ReportagePhotos/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/ReportagePhotos/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/857b9730da/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;br/&gt;&lt;a title=&#34;Un reportage photos&#34; href=&#34;https://www.haikudeck.com/p/857b9730da&#34;&gt;Un reportage photos&lt;/a&gt; - Créé avec Haiku Deck.;&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sips Joeri - Gip site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://joeri-sips.github.io/</link>
     <description>Recent content on Sips Joeri - Gip site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://joeri-sips.github.io/index.xml" rel="self" type="application/rss+xml" />
+
     <item>
       <title>Trello sessies</title>
-      <link>http://localhost:1313/taken/IT-TapaTrelloSessies/</link>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</link>
       <pubDate>Mon, 30 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-TapaTrelloSessies/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloSessies/</guid>
       <description>
 
 &lt;h2 id=&#34;it-tapa:4a768886d0240b11f9ea18ceffcb8e46&#34;&gt;IT-tapa&lt;/h2&gt;
@@ -25,13 +25,13 @@
 &lt;a href=&#34;http://nl.tinypic.com?ref=10x4kk3&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i65.tinypic.com/10x4kk3.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Case study</title>
-      <link>http://localhost:1313/taken/CaseStudy/</link>
+      <link>http://joeri-sips.github.io/taken/CaseStudy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/CaseStudy/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/CaseStudy/</guid>
       <description>
 
 &lt;h1 id=&#34;qf-test-case-study:012002a4ccf4c08711ada36cec8a571e&#34;&gt;QF-Test case study&lt;/h1&gt;
@@ -59,13 +59,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;p&gt;Tijdens de 2 weken stage hebben ik en wout testen geschreven voor Prime Visit waaronder tests om in te loggen, groepen aanmaken, leveranciers aanmaken, leveranciers aanmelden, etc. Het werk dat wij hiermee hebben verricht is ook echt van nut voor het bedrijf want ze laten de geautomatiseerde tests schrijven door tijdelijk werkkrachten zoals jobstudenten en ook stagiairs. Zo kunnen hun vaste informatici zich blijven focussen op de web-applicatie en moeten het development team niet ongesplitst worden om tests te schrijven.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Trello Instructievideo</title>
-      <link>http://localhost:1313/taken/IT-TapaTrelloIntstructievideos/</link>
+      <link>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-TapaTrelloIntstructievideos/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-TapaTrelloIntstructievideos/</guid>
       <description>&lt;p&gt;Nederlandse Instructievideo:&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vtrBZNaJU_c&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -75,13 +75,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cej_UYiT3Mk&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Pour la FAQ au sujet de Trello, cliquez ici</title>
-      <link>http://localhost:1313/taken/FoireAuxQuestions/</link>
+      <link>http://joeri-sips.github.io/taken/FoireAuxQuestions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/FoireAuxQuestions/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/FoireAuxQuestions/</guid>
       <description>&lt;p&gt;J’ai presenté l’outil “Trello” aux enseignants et en réalisant cette présentation j’ai trouvé six questions courantes.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -117,13 +117,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;/ol&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Huisstijl</title>
-      <link>http://localhost:1313/taken/Huisstijl/</link>
+      <link>http://joeri-sips.github.io/taken/Huisstijl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Huisstijl/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Huisstijl/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/Huisstijl.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 
 &lt;p&gt;De kleuren van GET zijn rood zwart en witte achtergronden. Meestal staat er dan “time &amp;amp; security” bij maar op get-producten zoals tassen kauwgom en pennen die ze gratis aan klanten meegeven word het woord “get” met leuke woordspelingen afgebeeld&lt;/p&gt;
@@ -131,13 +131,13 @@ Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS,
 &lt;p&gt;In het bedrijf vind je het logo op de badge-scanners, de standaard bureaubladen en iedereen heeft ook rode of grijze truien met het logo maar die zijn niet verplicht.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>IT is life</title>
-      <link>http://localhost:1313/taken/IT-autobiography/</link>
+      <link>http://joeri-sips.github.io/taken/IT-autobiography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-autobiography/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-autobiography/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction:b8ba8b1fcf0c24f1bbf715390a897859&#34;&gt;Introduction:&lt;/h2&gt;
@@ -162,23 +162,23 @@ That has been her work for as long as I can remember and longer; she even tells 
 &lt;p&gt;&lt;a href=&#34;http://nl.tinypic.com?ref=208v521&#34; target=&#34;blank&#34;&gt;&lt;img src=&#34;http://i66.tinypic.com/208v521.jpg&#34; border=&#34;0&#34; alt=&#34;Image and video hosting by TinyPic&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Javascript Applicatie</title>
-      <link>http://localhost:1313/taken/JavascriptApp/</link>
+      <link>http://joeri-sips.github.io/taken/JavascriptApp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/JavascriptApp/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/JavascriptApp/</guid>
       <description>&lt;p&gt;In mijn &lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt; ga je uit verschillende materialen telkens 1 kiezen en aan duiden of je het afkoelt of opwarmt waarop je het resultaat ziet. Vb. : Water, afkoelen = ijs. Dit wordt dan opgevrolijkt d.m.v. animaties en foto’s. Momenteel doe ik de animaties gewoon met de javascript library omdat dat momenteel al volstaat.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>IT-profile</title>
-      <link>http://localhost:1313/taken/IT-profile/</link>
+      <link>http://joeri-sips.github.io/taken/IT-profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/IT-profile/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/IT-profile/</guid>
       <description>&lt;p&gt;Hier een overzicht van &amp;ldquo;IT-skills&amp;rdquo; die ik op het immaculata instituut heb aangeleerd:&lt;/p&gt;
 
 &lt;p&gt;HTML:&lt;/p&gt;
@@ -202,24 +202,24 @@ That has been her work for as long as I can remember and longer; she even tells 
 &lt;progress value=&#34;55&#34; max=&#34;100&#34;&gt;&lt;/progress&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Voici un reportage photo concernant le stage</title>
-      <link>http://localhost:1313/taken/ReportagePhotos/</link>
+      <link>http://joeri-sips.github.io/taken/ReportagePhotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/ReportagePhotos/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/ReportagePhotos/</guid>
       <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/857b9730da/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;br/&gt;&lt;a title=&#34;Un reportage photos&#34; href=&#34;https://www.haikudeck.com/p/857b9730da&#34;&gt;Un reportage photos&lt;/a&gt; - Créé avec Haiku Deck.;&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Review of a software tool in the training company: GET N.V.</title>
-      <link>http://localhost:1313/taken/Review/</link>
+      <link>http://joeri-sips.github.io/taken/Review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Review/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Review/</guid>
       <description>&lt;p&gt;&lt;em&gt;I will be reviewing the QF-Test tool, I used this tool during my 2 weeks of training at GET NV. The tool is great at making tests for applications you have made. It was used by the Software Development department.
 They used it to make tests for their web application called “Prime Visit”.&lt;/em&gt;&lt;/p&gt;
 
@@ -237,13 +237,13 @@ I still think it’s a must have for software developers to automatically test t
 &lt;p&gt;Despite the expensive price, the tool is brilliant at what it’s made for which is making tests for your applications. And it definitely succeeds at being user friendly and able to work with all kinds of applications and programming languages. I absolutely recommend it to other companies which develop software to run automated tests all night to point out all the little and big bugs and glitches.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Directory structuur en workflows</title>
-      <link>http://localhost:1313/taken/WorkflowsCMS/</link>
+      <link>http://joeri-sips.github.io/taken/WorkflowsCMS/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/WorkflowsCMS/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/WorkflowsCMS/</guid>
       <description>
 
 &lt;p&gt;&lt;a class=&#34;hugo&#34; href=&#34;../../GipTaak09/index.html&#34; &gt;Webapplicatie&lt;/a&gt;&lt;/p&gt;
@@ -296,15 +296,15 @@ Eenmaal je uiteindelijk de basis van je hugo site hebt is het toevoegen van post
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Database</title>
-      <link>http://localhost:1313/taken/Database/</link>
+      <link>http://joeri-sips.github.io/taken/Database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/taken/Database/</guid>
+
+      <guid>http://joeri-sips.github.io/taken/Database/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>
