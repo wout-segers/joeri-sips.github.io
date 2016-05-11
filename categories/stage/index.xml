@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stage on Sips Joeri - Gip site</title>
+    <link>http://localhost:1313/categories/stage/</link>
+    <description>Recent content in Stage on Sips Joeri - Gip site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/stage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Case study</title>
+      <link>http://localhost:1313/taken/CaseStudy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/taken/CaseStudy/</guid>
+      <description>
+
+&lt;h1 id=&#34;qf-test-case-study:012002a4ccf4c08711ada36cec8a571e&#34;&gt;QF-Test case study&lt;/h1&gt;
+
+&lt;p&gt;Ik ga de tool QF-Test bespreken, dit is ook wat ik en wout hebben gebruikt tijdens onze 2 weken stage. Het is een tool om testen te programmeren voor je applicaties. Het werd gebruikt door de afdeling Software Development. Get N.V. ontwikkelt een webapplicatie genaamd Prime Visit die ertoe dient de aanwezigheid en planning van het personeel in te organiseren. Hiervoor schrijven ze testen die dan snachts blijven draaien om alle foutjes op te sporen.&lt;/p&gt;
+
+&lt;h2 id=&#34;hoe-maak-je-een-test-met-qf-test:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Hoe maak je een test met QF-Test:&lt;/h2&gt;
+
+&lt;p&gt;De tool herkend automatisch objecten in je applicatie zoals knoppen of labels, je laat dan zien aan de tool wat er moet gebeuren met die objecten (bv; je klikt door tot het instellingen scherm). Ook kan je gebruik maken van scriptjes in de programmeertalen groovy of jython om invoer mee te creëren voor tekstvakken.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/QFTest.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;(Dit is een screenshot met links de QF-Test tool waar meerderen procedures openstaan met acties die rechts op de webapplicatie Prime Visit worden uitgevoerd)&lt;/p&gt;
+
+&lt;h2 id=&#34;info:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Info:&lt;/h2&gt;
+
+&lt;p&gt;De tool is gemaakt door een bedrijf genaamd QFS (www.qfs.de) en is ook vooral bedoeld voor andere bedrijven en niet meteen voor particulieren. Dit kan je zien aan de iets wat duurdere prijs namelijk
+€1 995,00. Ze hebben deze tool dan ook niet gekozen voor de prijs maar voor de betrouwbaarheid en de om dat het compatibel is met het platform waarop hun web-applicatie draait (captain casa). QF-Test ondersteunt ook veel meer platformen hieronder een opsomming hiervan:&lt;/p&gt;
+
+&lt;p&gt;Java Swing, JavaFX, AWT, SWT, Eclipse, RCP, Applets, Java Web Start, ULC, CaptainCasa.
+Web: Internet Explorer, Firefox, Chrome (HTML 5, AJAX, GWT, GXT / ExtGWT, ExtJS, ICEfaces, jQuery UI, jQuery EasyUI, PrimeFaces, Qooxdoo, RAP, RichFaces, Vaadin, ZK).&lt;/p&gt;
+
+&lt;h2 id=&#34;wat-wij-met-de-tool-hebben-gedaan:012002a4ccf4c08711ada36cec8a571e&#34;&gt;Wat wij met de tool hebben gedaan:&lt;/h2&gt;
+
+&lt;p&gt;Tijdens de 2 weken stage hebben ik en wout testen geschreven voor Prime Visit waaronder tests om in te loggen, groepen aanmaken, leveranciers aanmaken, leveranciers aanmelden, etc. Het werk dat wij hiermee hebben verricht is ook echt van nut voor het bedrijf want ze laten de geautomatiseerde tests schrijven door tijdelijk werkkrachten zoals jobstudenten en ook stagiairs. Zo kunnen hun vaste informatici zich blijven focussen op de web-applicatie en moeten het development team niet ongesplitst worden om tests te schrijven.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Huisstijl</title>
+      <link>http://localhost:1313/taken/Huisstijl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/taken/Huisstijl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/Huisstijl.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;De kleuren van GET zijn rood zwart en witte achtergronden. Meestal staat er dan “time &amp;amp; security” bij maar op get-producten zoals tassen kauwgom en pennen die ze gratis aan klanten meegeven word het woord “get” met leuke woordspelingen afgebeeld&lt;/p&gt;
+
+&lt;p&gt;In het bedrijf vind je het logo op de badge-scanners, de standaard bureaubladen en iedereen heeft ook rode of grijze truien met het logo maar die zijn niet verplicht.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of a software tool in the training company: GET N.V.</title>
+      <link>http://localhost:1313/taken/Review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/taken/Review/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I will be reviewing the QF-Test tool, I used this tool during my 2 weeks of training at GET NV. The tool is great at making tests for applications you have made. It was used by the Software Development department.
+They used it to make tests for their web application called “Prime Visit”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s made by a German company called “QFS” which stands for Quality First Software. The tool is meant for making tests for Java and Web-applications. There are other tools which do the same thing like TestComplete, Sahi, Selenium,&amp;hellip; It works by recognizing buttons and labels on your app and documenting where to click and when, then you can automate it to run these tests over and over again to find bugs and glitches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/QFTest.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(this is a screenshot of the QF-Test tool in action, on the left you see all the procedures of a test case which is running on the application on the right side)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am impressed by the scale of the tool, it supports many kinds of applications and programming languages. It is easy to learn how to make tests but you can also dig deeper into QF-Test to make more advanced tests which use scripts to input different data every time. What I also like is that you can add structure to your tests with folders and different test cases. A plus to the tool is that when you run your test you can watch the tool move your mouse and type in words on your application (I had lots of fun watching it do that during my internship). The worst thing about the tool is that it’s an expensive tool and it’s mainly meant to be for companies which explains the price of almost € 2,000.
+I still think it’s a must have for software developers to automatically test their applications.&lt;/p&gt;
+
+&lt;p&gt;The online review at &lt;a href=&#34;http://qatestingtools.com/qfs/qftest&#34;&gt;http://qatestingtools.com/qfs/qftest&lt;/a&gt; does a very good job at explaining what QF-Test is. It comes with a price chart, specifications and video tutorials. It has a very in-depth list of advantages which is useful for developers because it lists all the program languages and different kinds of applications it supports. I agree with the list of advantages and the information the review has on the price is the same as on the QF-Test site.&lt;/p&gt;
+
+&lt;p&gt;Despite the expensive price, the tool is brilliant at what it’s made for which is making tests for your applications. And it definitely succeeds at being user friendly and able to work with all kinds of applications and programming languages. I absolutely recommend it to other companies which develop software to run automated tests all night to point out all the little and big bugs and glitches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voici un reportage photo concernant le stage</title>
+      <link>http://localhost:1313/taken/ReportagePhotos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/taken/ReportagePhotos/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://www.haikudeck.com/e/857b9730da/?isUrlHashEnabled=false&amp;isPreviewEnabled=false&amp;isHeaderVisible=false&#34; width=&#34;640&#34; height=&#34;541&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;a title=&#34;Un reportage photos&#34; href=&#34;https://www.haikudeck.com/p/857b9730da&#34;&gt;Un reportage photos&lt;/a&gt; - Créé avec Haiku Deck.;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

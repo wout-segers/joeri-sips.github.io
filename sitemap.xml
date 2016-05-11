@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/IT-TapaTrelloSessies/</loc>
+    <lastmod>2015-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/CaseStudy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/IT-TapaTrelloIntstructievideos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/FoireAuxQuestions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/Huisstijl/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/IT-autobiography/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/JavascriptApp/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/IT-profile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/ReportagePhotos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/Review/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/WorkflowsCMS/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/taken/Database/</loc>
+  </url>
+  
+</urlset>
